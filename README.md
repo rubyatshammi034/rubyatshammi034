@@ -15,9 +15,11 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: In weekends i am Watching Movie at home , sometimes i went to some tourists places . 
 -->
+<br>
+
 Skills➡ 💻 C Programming, JAVA,HTML,CSS
 I want to be a Software Quality Assurance Engineer
-
+<br>
 
 <p align="center">
     <a href="https://github.com/rubyatshammi034github-readme-streak-stats">
