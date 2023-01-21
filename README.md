@@ -1,8 +1,7 @@
 ### Assalamualaikum
 
-Skills➡ 💻 C Programming, JAVA,HTML,CSS
 
-<h1 align="center">Hi 👋, I'm Rubyat Jesmin Shammi. I want to be a Software Quality Assurance
+<h1 align="center">Hi 👋, I'm Rubyat Jesmin Shammi. 
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?w=740">
@@ -16,6 +15,9 @@ Skills➡ 💻 C Programming, JAVA,HTML,CSS
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: In weekends i am Watching Movie at home , sometimes i went to some tourists places . 
 -->
+Skills➡ 💻 C Programming, JAVA,HTML,CSS
+I want to be a Software Quality Assurance Engineer
+
 
 <p align="center">
     <a href="https://github.com/rubyatshammi034github-readme-streak-stats">
