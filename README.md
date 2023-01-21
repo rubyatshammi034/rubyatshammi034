@@ -1,9 +1,9 @@
 ### Assalamualaikum
-# I am Rubyat currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.I want to be a Software Quality Assurance
 
 Skills➡ 💻 C Programming, JAVA,HTML,CSS
 
-<h1 align="center">Hi 👋, I'm Rubyat Jesmin Shammi</h1>
+<h1 align="center">Hi 👋, I'm Rubyat Jesmin Shammi. I want to be a Software Quality Assurance
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?w=740">
 
